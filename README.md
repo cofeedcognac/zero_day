@@ -1,1 +1,1 @@
-##thus is a file
+##this is a file
